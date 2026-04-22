@@ -9,6 +9,18 @@
 ・review の修正指示を反映して publish を作る
 ・確定した publish 原稿のみをUTAGE投入対象として扱う
 
+- 参照するソース（source）
+
+本プロジェクトの主たる知識ソースは以下のObsidian Vault（iCloud同期版）である。
+制作時は必ずここを参照すること。
+
+・パス: /Users/kiryuurina/Library/Mobile Documents/iCloud~md~obsidian/Documents/My-vault
+
+【重要】このVaultは読み取り専用として扱うこと。
+・ファイルを編集・追加・削除してはならない
+・ファイル名やフォルダ構成を変更してはならない
+・読み込みのみ可能
+
 - 制作上の重要前提
 
 ・本プロジェクトの制作対象は、はじめに以降の章である

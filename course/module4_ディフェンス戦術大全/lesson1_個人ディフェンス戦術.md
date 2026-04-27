@@ -50,11 +50,10 @@ MODULE 4からは、現場で使う具体的なディフェンス戦術に入り
 ### 2. オフボールディフェンス
 - ボールサイド／ヘルプサイドのポジショニング
 - Gap（ギャップ）の取り方
-- Denial（デナイ）／Off Ball Close Outの判断
-- スクリーンへのリアクション（ファイト／スライド／スイッチ）
+- Denial（デナイ）／Off Ball CloseOutの判断
 - Ball Line、One Pass Away、Help Side、Low Manの位置関係
 - Top Lock、Deny、Chaseなど、相手のオフボールアクションへの個人対応
-- Stunt、Dig、Tagの強度と戻り方
+- Stunt、Dig、Tagの速度、タイミングと戻り方
 - 自分のマークとボールの両方を見る視野の作り方
 
 ### 3. ディフェンスの個人スキル要素
@@ -67,8 +66,8 @@ MODULE 4からは、現場で使う具体的なディフェンス戦術に入り
 - ファウルを避けながらプレッシャーをかける技術
 
 ### 4. チームディフェンスとの接続
-- 個人のOn Ball Directionが、後ろのHelp位置を決める
-- 個人が抜かれたとき、どのHelp / Rotationが発動するかをセットで扱う
+- 個人のOn Ball DirectionやPressureが、後ろのHelp位置を決める
+- 個人が抜かれたとき、どのHelp / Rotationをするかをセットで組み込む
 - CloseoutやBox Outの精度が、チームのローテーション完了条件になる
 - 個人技術を「1on1の上手さ」ではなく、チーム構造を成立させる部品として書く
 
